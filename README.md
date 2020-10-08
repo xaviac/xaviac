@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Actualmente curso el bootcamp de Web-Developer en Ironhack
+
 
 <!--
 **xaviac/xaviac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
